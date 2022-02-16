@@ -1,0 +1,1 @@
+target_sources(peer PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/SHA256.cpp)
